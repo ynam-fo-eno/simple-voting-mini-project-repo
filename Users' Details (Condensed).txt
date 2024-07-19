@@ -1,0 +1,35 @@
+
+Name: Timothy Mwenda
+Course studying/studied: Applied Computer Science
+Age: 19
+Voting status:Eligible
+Aspirant chosen:William Ruto.
+
+Name: Flavius Hyacinth
+Course studying/studied: Applied Computer Science
+Age: 18
+Voting status:Eligible
+Aspirant chosen:Raila Odinga.
+
+Name: Samuel Ngigi
+Course studying/studied: Applied Computer Science
+Age: 19
+Voting status:Eligible
+Aspirant chosen: George Wajackoyah.
+
+Name: Tracy Korir
+Course studying/studied: Acturial Science
+Age: 19
+Voting status:Eligible
+Aspirant chosen:Waihiga Mwaura.
+
+Name: Kennedy Vaati
+Course studying/studied: Public Health
+Age: 19
+Voting status:Eligible
+Digitally spoiled vote!
+
+Name: Mark Mithi
+Course studying/studied: Bachelor of Medicine
+Age: 17
+Voting status:Ineligible

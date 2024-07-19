@@ -1,0 +1,41 @@
+Age: 19
+Voting status:Eligible
+Aspirant chosen:William Ruto.
+
+Age: 18
+Voting status:Eligible
+Aspirant chosen:Raila Odinga.
+
+Age: 19
+Voting status:Eligible
+Aspirant chosen: George Wajackoyah.
+
+Age: 19
+Voting status:Eligible
+Aspirant chosen:Waihiga Mwaura.
+
+Age: 18
+Voting status:Eligible
+Digitally spoiled vote
+
+Age: 17
+Voting status:Ineligible
+
+Age: 19
+Voting status:Eligible
+Aspirant chosen:William Ruto.
+
+Age: 38
+Voting status:Eligible
+Aspirant chosen:Raila Odinga.
+
+Age: 1
+Voting status:Ineligible
+
+Age: 21
+Voting status:Eligible
+Aspirant chosen:William Ruto.
+
+Age: 31
+Voting status:Eligible
+Aspirant chosen: George Wajackoyah.
